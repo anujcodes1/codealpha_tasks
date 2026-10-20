@@ -1,0 +1,127 @@
+[
+  {
+    "question": "How can I track my order?",
+    "answer": "Open 'My Orders' in your account and click 'Track'. You will also get a tracking link by email and SMS once your order ships.",
+    "keywords": "where is my order status tracking parcel package shipment location"
+  },
+  {
+    "question": "How long does delivery take?",
+    "answer": "Standard delivery takes 3-5 business days. Express delivery takes 1-2 business days in major cities.",
+    "keywords": "how many days delivery time arrive reach when will it come speed"
+  },
+  {
+    "question": "What are the shipping charges?",
+    "answer": "Shipping is free on orders above Rs. 499. Below that, a flat fee of Rs. 49 applies.",
+    "keywords": "delivery fee cost delivery charge free shipping postage"
+  },
+  {
+    "question": "Do you deliver internationally?",
+    "answer": "Currently we deliver only within India. International shipping is planned for later this year.",
+    "keywords": "ship to usa uk america canada dubai australia international abroad overseas outside india foreign country worldwide"
+  },
+  {
+    "question": "How do I return a product?",
+    "answer": "You can return most items within 7 days of delivery. Go to 'My Orders', choose the item and click 'Return'. We will arrange a free pickup.",
+    "keywords": "send back return item exchange return process pickup"
+  },
+  {
+    "question": "What is your refund policy?",
+    "answer": "Refunds are issued to your original payment method within 5-7 business days after we receive the returned item.",
+    "keywords": "money back get refund reimbursement credited when refund"
+  },
+  {
+    "question": "How can I cancel my order?",
+    "answer": "Orders can be cancelled before they are shipped. Go to 'My Orders' and click 'Cancel'. After shipping, you can refuse delivery or use the return option.",
+    "keywords": "cancel purchase stop order cancellation"
+  },
+  {
+    "question": "Can I change my delivery address after placing an order?",
+    "answer": "Yes, as long as the order has not shipped. Contact support with your order ID and the new address.",
+    "keywords": "edit change address wrong address modify shipping address"
+  },
+  {
+    "question": "Which payment methods do you accept?",
+    "answer": "We accept credit and debit cards, UPI, net banking, popular wallets and cash on delivery.",
+    "keywords": "pay by card credit debit upi upi netbanking wallet gpay phonepe paytm payment options"
+  },
+  {
+    "question": "Is cash on delivery available?",
+    "answer": "Yes, cash on delivery is available on orders up to Rs. 5,000 in most pin codes.",
+    "keywords": "cod cod pay on delivery cash payment at door"
+  },
+  {
+    "question": "My payment failed but money was deducted. What should I do?",
+    "answer": "Do not worry. Failed payments are automatically refunded by your bank within 5-7 business days. If not, share the transaction ID with our support team.",
+    "keywords": "transaction failed amount debited deducted payment error money cut"
+  },
+  {
+    "question": "How do I create an account?",
+    "answer": "Click 'Sign Up' at the top right, enter your name, email and phone number, then verify the OTP sent to your phone.",
+    "keywords": "register sign up signup new account join"
+  },
+  {
+    "question": "I forgot my password. How can I reset it?",
+    "answer": "Click 'Forgot Password' on the login page, enter your registered email and follow the reset link we send you.",
+    "keywords": "lost password reset password login problem cannot login change password"
+  },
+  {
+    "question": "How do I update my profile information?",
+    "answer": "Log in, open 'My Account' and select 'Edit Profile' to change your name, phone number, email or address.",
+    "keywords": "edit profile change name phone number email update details"
+  },
+  {
+    "question": "How do I apply a coupon code?",
+    "answer": "Enter the code in the 'Apply Coupon' box on the cart page before checkout. The discount will be shown in the order summary.",
+    "keywords": "promo code discount voucher offer use coupon"
+  },
+  {
+    "question": "Why is my coupon code not working?",
+    "answer": "Coupons may have expired, require a minimum order value, or apply only to selected products. Check the coupon terms and conditions.",
+    "keywords": "coupon invalid expired promo code error discount not applied"
+  },
+  {
+    "question": "Do you offer gift cards?",
+    "answer": "Yes, digital gift cards from Rs. 500 to Rs. 10,000 are available and are delivered by email instantly.",
+    "keywords": "gift voucher present"
+  },
+  {
+    "question": "How can I contact customer support?",
+    "answer": "Email support@shopeasy.example or call 1800-123-4567, Monday to Saturday, 9 AM to 8 PM.",
+    "keywords": "phone number email helpline talk to agent customer care reach support"
+  },
+  {
+    "question": "What are your customer support hours?",
+    "answer": "Our support team is available Monday to Saturday, 9 AM to 8 PM IST. Email support is monitored on Sundays too.",
+    "keywords": "support timing working hours open time available when"
+  },
+  {
+    "question": "Do products come with a warranty?",
+    "answer": "Electronics carry the manufacturer's warranty, usually 1 year. The warranty details are on each product page.",
+    "keywords": "warranty guarantee repair service period"
+  },
+  {
+    "question": "How do I know if a product is in stock?",
+    "answer": "The product page shows 'In Stock' or 'Out of Stock'. Click 'Notify Me' to get an email when it is available again.",
+    "keywords": "availability available out of stock stock notify restock"
+  },
+  {
+    "question": "Can I order in bulk for my business?",
+    "answer": "Yes, write to bulk@shopeasy.example with your requirements and our business team will share a quote within 24 hours.",
+    "keywords": "wholesale bulk order business corporate large quantity"
+  },
+  {
+    "question": "Is my personal information safe?",
+    "answer": "Yes. We use encryption for all transactions and never share your personal data with third parties without your consent.",
+    "keywords": "privacy security data safe secure encryption"
+  },
+  {
+    "question": "I received a damaged or wrong item. What should I do?",
+    "answer": "We are sorry about that. Raise a request under 'My Orders' within 48 hours with a photo, and we will send a replacement or refund.",
+    "keywords": "arrived broken broken defective damaged wrong product incorrect item replacement"
+  },
+  {
+    "question": "How do I leave a review for a product?",
+    "answer": "Open the product from 'My Orders' and click 'Write a Review'. Only verified buyers can post reviews.",
+    "keywords": "rating feedback review write review rate product"
+  }
+]
